@@ -33,4 +33,4 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
           name: crx
-          path: path/to/extension-${{ github.sha }}.crx
+          path: dist.crx
