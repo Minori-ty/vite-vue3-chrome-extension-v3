@@ -131,6 +131,13 @@ And then pack files under `dist`, you can upload `dist.crx` or `dist.xpi` to app
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/Minori-ty">
+            <img src="https://avatars.githubusercontent.com/u/79521943?v=4" width="100;" alt="Minori-ty"/>
+            <br />
+            <sub><b>天平</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mubaidr">
             <img src="https://avatars.githubusercontent.com/u/2222702?v=4" width="100;" alt="mubaidr"/>
             <br />
