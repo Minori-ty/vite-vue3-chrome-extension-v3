@@ -27,8 +27,8 @@ jobs:
     - run: npm run build
     - uses: browser-actions/setup-chrome@v1
     - run: |
-           chrome --pack-extension=/dist
-           mv path/to/extension.crx path/to/extension-${{ github.sha }}.crx
+           chrome --pack-extension=dist
+           path/to/extension-${{ github.sha }}.crx
            
     - uses: actions/upload-artifact@v2
       with:
