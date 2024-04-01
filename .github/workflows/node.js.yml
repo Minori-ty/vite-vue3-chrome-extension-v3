@@ -28,7 +28,6 @@ jobs:
     - uses: browser-actions/setup-chrome@v1
     - run: |
            chrome --pack-extension=dist
-           path/to/extension-${{ github.sha }}.crx
            
     - uses: actions/upload-artifact@v2
       with:
